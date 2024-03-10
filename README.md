@@ -21,13 +21,13 @@ Make sure you have Python installed on your system. You can download it from [py
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/france-cities-map.git
+   git clone https://github.com/camillegd/projet-villes.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd france-cities-map
+   cd projet-villes
    ```
 
 3. Run the project (villes.py)
